@@ -18,7 +18,7 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 📂 Featured Projects
 
-### 🔹 **1. Consumer Purchase Analysis (Python + EDA)**
+### 🔹 **1. Consumer Purchase Analysis (Python + EDA + Power BI Dashboard )**
 An in-depth analysis of customer purchase behavior including discounts, buying patterns, product trends, and customer segmentation.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 👉 **Repo:** https://github.com/Vansh7206/Consumer_DataAnalysis_Detailed
