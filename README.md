@@ -34,9 +34,7 @@ Includes an **interactive Power BI dashboard** for storytelling.
 ---
 ### 🔹**3. Social Media Usage & Mental Health Analysis**
 Analyzed social media behavior patterns and their connection to mental-health indicators using Python EDA and visualization techniques.
-
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
-
 👉 **Repo:** https://github.com/Vansh7206/SocialMedia_Analysis
 
 ---
