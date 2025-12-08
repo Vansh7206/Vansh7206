@@ -32,11 +32,11 @@ Includes an **interactive Power BI dashboard** for storytelling.
 👉 **Repo:** https://github.com/Vansh7206/Space-missions-eda-project
 
 ---
+### 🔹**3. Social Media Usage & Mental Health Analysis**
+Analyzed social media behavior patterns and their connection to mental-health indicators using Python EDA and visualization techniques.
 
-### 🔹 **3. AI-Based Financial Market Analysis**
-Built an analysis pipeline to visualize stock market patterns, compute indicators, and extract insights using Python EDA + AI techniques.  
-**Tech:** Python, Pandas, Scikit-learn, Matplotlib  
-👉 **Repo:** https://github.com/Vansh7206/AI-FinancialMarket-Analysis
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
+👉 **Repo:** https://github.com/Vansh7206/SocialMedia_Analysis
 
 ---
 
