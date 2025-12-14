@@ -44,7 +44,7 @@ Includes an **interactive Power BI dashboard** for storytelling.
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 **Tools:** Power BI, Git, Jupyter Notebook  
-**Databases:** MySQL / PostgreSQL (beginner)
+**Databases:** MySQL / PostgreSQL 
 
 ---
 
