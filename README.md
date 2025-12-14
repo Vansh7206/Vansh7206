@@ -19,8 +19,7 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 ## 📂 Featured Projects
 
 ### 🔹 **1. Google Ads Analysis (Python + SQL + EDA + Power BI Dashboard)**
-This project delivers a complete marketing analytics solution by transforming raw advertising data into actionable insights through data engineering, analytical modeling, visualization, and storytelling—enabling informed campaign optimization and improved ROI.
-
+This project delivers a complete marketing analytics solution by transforming raw advertising data into actionable insights through data engineering, analytical modeling, visualization, and storytelling—enabling informed campaign optimization and improved ROI.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI  
 👉 **Repo:** https://github.com/Vansh7206/Consumer_DataAnalysis_Detailed  
 
