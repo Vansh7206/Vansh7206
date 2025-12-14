@@ -18,26 +18,25 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 📂 Featured Projects
 
-### 🔹 **1. Consumer Purchase Analysis (Python + EDA + Power BI Dashboard)**
-An in-depth analysis of customer purchase behavior including discounts, buying patterns, product trends, and customer segmentation.  
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+### 🔹 **1. Google Ads Analysis (Python + SQL + EDA + Power BI Dashboard)**
+This project delivers a complete marketing analytics solution by transforming raw advertising data into actionable insights through data engineering, analytical modeling, visualization, and storytelling—enabling informed campaign optimization and improved ROI. 
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI  
 👉 **Repo:** https://github.com/Vansh7206/Consumer_DataAnalysis_Detailed  
 
 ---
 
-### 🔹 **2. Global Space Missions EDA + Power BI Dashboard**
+### 🔹 **2. Consumer Purchase Analysis (Python + EDA + Power BI Dashboard)**
+An in-depth analysis of customer purchase behavior including discounts, buying patterns, product trends, and customer segmentation.  
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+👉 **Repo:** https://github.com/Vansh7206/Google_Ads
+
+---
+
+### 🔹 **3. Global Space Missions EDA + Power BI Dashboard**
 Analyzed 60+ years of space mission data to uncover launch patterns, success/failure trends, major space agencies’ contributions, and yearly mission growth.  
 Includes an **interactive Power BI dashboard** for storytelling.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Power BI  
 👉 **Repo:** https://github.com/Vansh7206/Space-missions-eda-project  
-
----
-
-### 🔹 **3. Social Media Usage & Mental Health Analysis**
-Analyzed social media behavior patterns and their connection to mental-health indicators using Python EDA and visualization techniques.  
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-👉 **Repo:** https://github.com/Vansh7206/SocialMedia_Analysis
- 
 
 ---
 
