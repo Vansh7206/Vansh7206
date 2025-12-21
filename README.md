@@ -18,21 +18,28 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 📂 Featured Projects
 
-### 🔹 **1. Google Ads Analysis (Python + SQL + EDA + Power BI Dashboard)**
+### 🔹 **1. AI in Student Life (Python + SQL + EDA + Power BI Dashboard)**
+Performed end-to-end analysis of 10,000 AI learning sessions using Python (Pandas, NumPy), SQL (aggregations, conditional logic), and Power BI. Extracted actionable insights on user engagement, task trends, satisfaction drivers, and reuse behavior; created interactive visual dashboards to support data-driven product recommendations and set groundwork for future predictive models.       
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI  
+👉 **Repo:** https://github.com/Vansh7206/AI_in_StudentLife      
+
+---
+
+### 🔹 **2. Google Ads Analysis (Python + SQL + EDA + Power BI Dashboard)**
 This project delivers a complete marketing analytics solution by transforming raw advertising data into actionable insights through data engineering, analytical modeling, visualization, and storytelling—enabling informed campaign optimization and improved ROI.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI  
 👉 **Repo:** https://github.com/Vansh7206/Google_Ads  
 
 ---
 
-### 🔹 **2. Consumer Purchase Analysis (Python + EDA + Power BI Dashboard)**
+### 🔹 **3. Consumer Purchase Analysis (Python + EDA + Power BI Dashboard)**
 An in-depth analysis of customer purchase behavior including discounts, buying patterns, product trends, and customer segmentation.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI  
 👉 **Repo:** https://github.com/Vansh7206/Consumer_DataAnalysis_Detailed
 
 ---
 
-### 🔹 **3. Global Space Missions EDA + Power BI Dashboard**
+### 🔹 **4. Global Space Missions EDA + Power BI Dashboard**
 Analyzed 60+ years of space mission data to uncover launch patterns, success/failure trends, major space agencies’ contributions, and yearly mission growth.  
 Includes an **interactive Power BI dashboard** for storytelling.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Power BI  
