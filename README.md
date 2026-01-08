@@ -1,72 +1,17 @@
-# 👋 Hi, I'm Vansh Chandan  
-### Data Analyst | Python | SQL | Power BI | Machine Learning (Beginner)
+# 💫 About Me
 
-I'm a passionate Data Analyst skilled in turning raw data into meaningful insights.  
-I enjoy working on real-world datasets, building dashboards, and solving business problems using data.
+Hi 👋 I’m Vansh, a student and aspiring data/ML enthusiast who learns by building real projects and improving step by step.
 
----
-
-## 🧠 What I Do
-- Data Cleaning & Preprocessing (Pandas, NumPy)
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn, Power BI)
-- SQL for Data Querying
-- Basic Machine Learning (Regression, Classification)
-- Dashboard creation & storytelling with data
+🔭 Currently working on machine learning projects, data analysis, and strengthening my GitHub portfolio  
+👯 Open to collaborating on beginner–intermediate ML and data analytics projects  
+🌱 Learning Machine Learning, Data Analytics, Python, and AI fundamentals  
+💬 Ask me about Python, ML basics, data preprocessing, or project structuring  
+⚡ Fun fact: I break things a lot while learning — that’s how my projects actually improve  
 
 ---
 
-## 📂 Featured Projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vansh7206) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vansh Chandan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vansh_7206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh.chandan@somaiya.edu) 
 
-### 🔹 **1. AI in Student Life (Python + SQL + EDA + Power BI Dashboard)**
-Performed end-to-end analysis of 10,000 AI learning sessions using Python (Pandas, NumPy), SQL (aggregations, conditional logic), and Power BI. Extracted actionable insights on user engagement, task trends, satisfaction drivers, and reuse behavior; created interactive visual dashboards to support data-driven product recommendations and set groundwork for future predictive models.       
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI  
-👉 **Repo:** https://github.com/Vansh7206/AI_in_StudentLife      
-
----
-
-### 🔹 **2. Google Ads Analysis (Python + SQL + EDA + Power BI Dashboard)**
-This project delivers a complete marketing analytics solution by transforming raw advertising data into actionable insights through data engineering, analytical modeling, visualization, and storytelling—enabling informed campaign optimization and improved ROI.  
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI  
-👉 **Repo:** https://github.com/Vansh7206/Google_Ads  
-
----
-
-### 🔹 **3. Consumer Purchase Analysis (Python + EDA + Power BI Dashboard)**
-An in-depth analysis of customer purchase behavior including discounts, buying patterns, product trends, and customer segmentation.  
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-👉 **Repo:** https://github.com/Vansh7206/Consumer_DataAnalysis_Detailed
-
----
-
-### 🔹 **4. Global Space Missions EDA + Power BI Dashboard**
-Analyzed 60+ years of space mission data to uncover launch patterns, success/failure trends, major space agencies’ contributions, and yearly mission growth.  
-Includes an **interactive Power BI dashboard** for storytelling.  
-**Tech:** Python, Pandas, NumPy, Matplotlib, Power BI  
-👉 **Repo:** https://github.com/Vansh7206/Space-missions-eda-project  
-
----
-
-## 🛠 Tech Stack
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-**Tools:** Power BI, Git, Jupyter Notebook  
-**Databases:** MySQL / PostgreSQL 
-
----
-
-## 🎓 Certifications
-- Exploratory Data Analysis for Machine Learning – IBM  
-- Elements of AI – University of Helsinki  
-- Product Management Fundamentals – Microsoft  
-
----
-
-## 📬 Contact Me
-- **Email:** vchandan0702@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/vansh-chandan  
-- **GitHub:** https://github.com/Vansh7206  
-
----
-
-⭐ *Always learning, always building. Open to data analyst internships & collaborations.*
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
