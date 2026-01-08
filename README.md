@@ -1,12 +1,12 @@
-# 💫 About Me
+## 👋 Hi, I’m Vansh
+Student & aspiring data/ML enthusiast who learns by building real projects and improving step by step.
 
-Hi 👋 I’m Vansh, a student and aspiring data/ML enthusiast who learns by building real projects and improving step by step.
-
-🔭 Currently working on machine learning projects, data analysis, and strengthening my GitHub portfolio  
-👯 Open to collaborating on beginner–intermediate ML and data analytics projects  
-🌱 Learning Machine Learning, Data Analytics, Python, and AI fundamentals  
-💬 Ask me about Python, ML basics, data preprocessing, or project structuring  
-⚡ Fun fact: I break things a lot while learning — that’s how my projects actually improve  
+- 🔭 Currently working on machine learning projects, data analysis, and strengthening my GitHub portfolio
+- 👯 Open to collaborating on beginner–intermediate ML and data analytics projects
+- 🌱 Learning Machine Learning, Data Analytics, Python, and AI fundamentals
+- 💬 Ask me about Python, ML basics, data preprocessing, or project structuring
+- ⚡ Fun fact: I break things a lot while learning — that’s how my projects actually improve
+  
 
 ---
 
