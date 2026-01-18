@@ -1,17 +1,76 @@
-## 👋 Hi, I’m Vansh
-Student & aspiring data/ML enthusiast who learns by building real projects and improving step by step.
+# 👋 Hi, I’m Vansh
 
-- 🔭 Currently working on machine learning projects, data analysis, and strengthening my GitHub portfolio
-- 👯 Open to collaborating on beginner–intermediate ML and data analytics projects
-- 🌱 Learning Machine Learning, Data Analytics, Python, and AI fundamentals
-- 💬 Ask me about Python, ML basics, data preprocessing, or project structuring
-- ⚡ Fun fact: I break things a lot while learning — that’s how my projects actually improve
-  
+**Data Analyst / ML Practitioner**  
+I build end-to-end machine learning projects with a strong focus on **real-world decision making**, not just model accuracy.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vansh7206) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-chandan-875a373a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vansh_7206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh.chandan@somaiya.edu) 
+## 🚀 What I Actually Do
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+- Design complete ML pipelines: **EDA → preprocessing → modeling → evaluation → deployment**
+- Work with **imbalanced datasets** and tune models based on **business cost (FN vs FP trade-offs)**
+- Build and deploy **interactive Streamlit applications** for ML predictions
+- Translate model outputs into **clear, non-technical insights**
+
+---
+
+## 🧠 How I Think About ML
+
+> I don’t optimize models for accuracy alone.  
+> I optimize them for **impact, risk, and business outcomes**.
+
+- Threshold tuning matters more than chasing +1% accuracy  
+- A simple model well-explained beats a complex model no one understands  
+- If a model can’t be deployed or explained, it’s not finished
+
+---
+
+## 📌 Highlight Projects
+
+### 🔹 Telco Customer Churn Prediction
+- End-to-end ML system using Logistic Regression  
+- Extensive EDA, feature engineering, and preprocessing  
+- **Threshold optimization (0.3)** to reduce false negatives  
+- Deployed as an interactive **Streamlit web app**
+
+### 🔹 45 Days of ML
+- Consistent hands-on ML practice  
+- Focus on fundamentals, experiments, and implementation  
+- Learning by building, breaking, and fixing
+
+---
+
+## 🛠 Tech Stack (What I Actually Use)
+
+**Data & ML**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+
+**Deployment**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+
+**Database**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+---
+
+## 📂 How to Read My GitHub
+
+- Each project is built for **learning + clarity**, not just showcasing
+- Code is written to be **understandable**, not over-engineered
+- Decisions are intentional — if something is simple, it’s on purpose
+
+---
+
+## 🤝 Open To
+
+- Beginner → intermediate data analytics & ML collaborations  
+- Feedback on real-world ML projects  
+- Discussions around **model evaluation, thresholds, and business trade-offs**
+
+---
+
+📫 **Reach me at:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-chandan-875a373a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vansh_7206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vchanan0702@gmail.com) 
