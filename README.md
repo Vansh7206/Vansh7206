@@ -27,16 +27,18 @@ I build end-to-end machine learning projects with a strong focus on **real-world
 
 ## 📌 Highlight Projects
 
+### 🔹 AI-Powered E-commerce RFM Analytics System
+- Developed RFM-based customer segmentation using Python (Pandas, NumPy)
+- Built an AI-powered natural language query system to generate business insights
+- Designed modular architecture (data loader, analytics engine, intent parser, AI explainer)
+- Integrated Streamlit app + Power BI dashboard for interactive visualization
+- Implemented Top-N analysis, revenue insights, and customer behavior tracking
+  
 ### 🔹 Telco Customer Churn Prediction
 - End-to-end ML system using Logistic Regression  
 - Extensive EDA, feature engineering, and preprocessing  
 - **Threshold optimization (0.3)** to reduce false negatives  
 - Deployed as an interactive **Streamlit web app**
-
-### 🔹 45 Days of ML
-- Consistent hands-on ML practice  
-- Focus on fundamentals, experiments, and implementation  
-- Learning by building, breaking, and fixing
 
 ---
 
