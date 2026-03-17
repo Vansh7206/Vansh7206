@@ -81,7 +81,7 @@ A clean demonstration of ML pipeline discipline: preprocessing → vectorization
 
 ---
 
-### 📉 Telco Customer Churn Prediction
+### 📉 [Telco Customer Churn Prediction](https://github.com/Vansh7206/Telco-Customer-Churn-ML)
 > *Where threshold tuning matters more than raw accuracy.*
 
 End-to-end churn prediction with a deliberate focus on **business cost asymmetry** — missing a churning customer (FN) is far more expensive than flagging a loyal one (FP).
