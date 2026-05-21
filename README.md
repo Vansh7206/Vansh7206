@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-chandan-875a373a3)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vansh_builds)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh7206.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-website-red.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vchanan0702@gmail.com)
 
 </div>
@@ -98,31 +98,42 @@ Power BI  ·  Pandas  ·  NumPy  ·  Streamlit  ·  Flask
 
 ---
 
-## 📊 Stats
+## 📊 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh7206&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh7206&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366F1" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh7206&theme=dark&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vansh7206&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true)](https://github.com/Vansh7206)
+
+</div>
+
+<div align="center">
+
+| 🗂 Repos | ⭐ Focus | 🛠 Stack |
+|---|---|---|
+| Data Engineering | End-to-end pipelines | Python · SQL · dbt |
+| Machine Learning | Deployed systems | Scikit-learn · XGBoost |
+| Analytics | Business intelligence | Power BI · Streamlit |
+
+</div>
 
 ---
 
 ## 🔨 Currently Building
 
-**Football Analytics dbt Project**
-Premier League-style dataset · Full modern stack
-`Python → S3 → Snowflake → dbt → Power BI / Streamlit`
+> **Football Analytics dbt Project** — documenting every step publicly
 
-Documenting the build live on [Twitter/X →](https://x.com/vansh_builds)
+```
+Raw Data → Python → AWS S3 → Snowflake → dbt → Power BI / Streamlit
+```
+
+Following along on [Twitter/X →](https://x.com/vansh_builds)
 
 ---
 
 <div align="center">
 
-*Building in public · Open to collabs · Let's connect*
+**Building in public · Open to collabs · Let's connect**
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/vansh_builds?style=social)](https://x.com/vansh_builds)
 
 </div>
