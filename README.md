@@ -77,7 +77,7 @@ Power BI  ·  Pandas  ·  NumPy  ·  Streamlit  ·  Flask
 
 - Business-oriented evaluation with feature engineering + threshold tuning
 - Deployed and accessible — not just a notebook
-- `Python · Scikit-learn · Streamlit` · [GitHub](https://github.com/Vansh7206/instructor-effectiveness-modeling)
+- `Python · Scikit-learn · Streamlit` 
 
 ---
 
